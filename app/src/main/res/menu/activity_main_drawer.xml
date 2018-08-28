@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/colorTest"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="颜色切换" />
+        <item
+            android:id="@+id/picture_Repair"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="八坏点" />
+        <item
+            android:id="@+id/brightness"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="亮度调节" />
+        <item
+            android:id="@+id/yuhua"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="羽化图片" />
+        <item
+            android:icon="@drawable/ic_menu_manage"
+            android:title="case1" />
+        <item
+
+            android:icon="@drawable/ic_menu_manage"
+            android:title="case2" />
+        <item
+            android:icon="@drawable/ic_menu_manage"
+            android:title="case3" />
+        <item
+            android:icon="@drawable/ic_menu_manage"
+            android:title="case4" />
+        <item
+            android:icon="@drawable/ic_menu_manage"
+            android:title="case5" />
+        <item
+            android:icon="@drawable/ic_menu_manage"
+            android:title="case6" />
+        <item
+            android:icon="@drawable/ic_menu_manage"
+            android:title="case7" />
+        <item
+            android:icon="@drawable/ic_menu_manage"
+            android:title="case8" />
+        <item
+            android:icon="@drawable/ic_menu_manage"
+            android:title="case9" />
+        <item
+            android:icon="@drawable/ic_menu_manage"
+            android:title="case10" />
+        <item
+            android:icon="@drawable/ic_menu_manage"
+            android:title="case11" />
+        <item
+            android:icon="@drawable/ic_menu_manage"
+            android:title="case12" />
+        <item
+            android:icon="@drawable/ic_menu_manage"
+            android:title="case13" />
+        <item
+            android:icon="@drawable/ic_menu_manage"
+            android:title="case14" />
+        <item
+            android:icon="@drawable/ic_menu_manage"
+            android:title="case15" />
+        <item
+            android:icon="@drawable/ic_menu_manage"
+            android:title="case16" />
+
+
+    </group>
+
+    <item android:title="Result">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/testResult"
+                android:icon="@drawable/ic_menu_send"
+                android:title="测试结果" />
+        </menu>
+
+    </item>
+
+</menu>
